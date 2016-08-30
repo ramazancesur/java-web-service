@@ -1,0 +1,10 @@
+127.0.0.1 - - [07/May/2016:12:42:19 +0300] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [07/May/2016:12:42:20 +0300] "GET /JAXRSJsonCRUDExample/index.jsp HTTP/1.1" 200 52
+0:0:0:0:0:0:0:1 - - [07/May/2016:12:44:12 +0300] "GET /JAXRSJsonCRUDExample/rest/countries HTTP/1.1" 500 4605
+0:0:0:0:0:0:0:1 - - [07/May/2016:12:44:12 +0300] "GET /favicon.ico HTTP/1.1" 404 973
+0:0:0:0:0:0:0:1 - - [07/May/2016:12:44:12 +0300] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 1015
+0:0:0:0:0:0:0:1 - - [07/May/2016:12:44:12 +0300] "GET /apple-touch-icon.png HTTP/1.1" 404 991
+0:0:0:0:0:0:0:1 - - [07/May/2016:12:45:17 +0300] "GET /JAXRSJsonCRUDExample/rest/countries HTTP/1.1" 500 4605
+127.0.0.1 - - [07/May/2016:12:48:21 +0300] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [07/May/2016:12:48:22 +0300] "GET /JAXRSJsonCRUDExample/org/arpit/java2blog/service/CountryService.java HTTP/1.1" 200 1688
+0:0:0:0:0:0:0:1 - - [07/May/2016:12:48:42 +0300] "GET /JAXRSJsonCRUDExample/rest/countries HTTP/1.1" 500 4605

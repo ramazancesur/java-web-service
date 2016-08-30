@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;RssParser/jsoup-1.8.3 (1).jar&apos; to &apos;jsoup-1.8.3.jar&apos;" description="Rename resource &apos;jsoup-1.8.3 (1).jar&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="jsoup-1.8.3 (1).jar" name="jsoup-1.8.3.jar" stamp="1460583394348" updateReferences="true"/>
+</session>
