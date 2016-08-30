@@ -13,9 +13,7 @@ import javax.xml.bind.annotation.XmlType;
         name = "Undertaking",
         propOrder = {
                 "id",
-                "sortId",
-                "commitmentDate",
-                "amount"
+                "sortId"
         })
 @XmlRootElement(name = "Commitment")
 

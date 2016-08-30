@@ -26,4 +26,38 @@ public class Loan {
 
 	    @XmlElement(name = "TotalAmount")
 	    private Double totalAmount;
+
+		public long getFileId() {
+			return fileId;
+		}
+
+		public void setFileId(long fileId) {
+			this.fileId = fileId;
+		}
+
+		public SubscriberInfo getSubscriberInfo() {
+			return subscriberInfo;
+		}
+
+		public void setSubscriberInfo(SubscriberInfo subscriberInfo) {
+			this.subscriberInfo = subscriberInfo;
+		}
+
+		public List<Undertaking> getUndertakingList() {
+			return undertakingList;
+		}
+
+		public void setUndertakingList(List<Undertaking> undertakingList) {
+			this.undertakingList = undertakingList;
+		}
+
+		public Double getTotalAmount() {
+			return totalAmount;
+		}
+
+		public void setTotalAmount(Double totalAmount) {
+			this.totalAmount = totalAmount;
+		}
+	    
+	    
 }
