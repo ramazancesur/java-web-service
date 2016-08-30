@@ -1,3 +1,0 @@
-#Tomcat publish data
-#Sat May 07 23:49:52 EEST 2016
-org.eclipse.jst.j2ee.server\:/binary\:/Users/ramazancesur/.m2/repository/org/springframework/spring-web/4.2.1.RELEASE/spring-web-4.2.1.RELEASE.jar=WEB-INF/lib/spring-web-4.2.1.RELEASE.jar

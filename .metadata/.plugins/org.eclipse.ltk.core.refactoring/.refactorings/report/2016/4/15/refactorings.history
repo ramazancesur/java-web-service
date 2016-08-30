@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename compilation unit &apos;templates.template.java&apos; to &apos;Templates.java&apos;&#x0A;- Original project: &apos;report&apos;&#x0A;- Original element: &apos;templates.template.java&apos;&#x0A;- Renamed element: &apos;templates.Templates.java&apos;" description="Rename compilation unit &apos;template.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src\/main\/java&lt;templates{template.java" name="Templates.java" references="false" stamp="1460499739090" version="1.0"/>
-</session>
